@@ -11081,7 +11081,8 @@ header.header-image .header-content .header-content-inner h5 {
   background-image: none;
   opacity: 1;
 }
-.carousel .carousel-control .icon-prev, .carousel .carousel-control .icon-next {
+.carousel .carousel-control .icon-prev,
+.carousel .carousel-control .icon-next {
   background-color: #a5e200;
   width: 40px;
   height: 40px;
@@ -11116,14 +11117,16 @@ header.header-image .header-content .header-content-inner h5 {
 #main-slider .carousel-caption {
   top: 20%;
 }
-#main-slider .carousel-caption p, #main-slider .carousel-caption h1 {
+#main-slider .carousel-caption p,
+#main-slider .carousel-caption h1 {
   color: #ffffff;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 #main-slider .carousel-caption h1 {
-  font-size: 48px;
+  font-size: 38px;
   margin-top: 24px;
   margin-bottom: 24px;
+  letter-spacing: 4px;
 }
 #main-slider .carousel-caption p {
   font-size: 20px;
@@ -11134,7 +11137,8 @@ header.header-image .header-content .header-content-inner h5 {
   font-size: 14px;
   padding: 10px 12px;
 }
-#main-slider .icon-prev, #main-slider .icon-next {
+#main-slider .icon-prev,
+#main-slider .icon-next {
   top: 45%;
 }
 
@@ -11145,9 +11149,9 @@ header.header-image .header-content .header-content-inner h5 {
   #main-slider .carousel-caption {
     top: 20%;
   }
-  #main-slider .carousel-caption p, #main-slider .carousel-caption h1 {
+  #main-slider .carousel-caption p,
+  #main-slider .carousel-caption h1 {
     color: #ffffff;
-    text-transform: capitalize;
   }
   #main-slider .carousel-caption h1 {
     font-size: 36px;
@@ -11163,7 +11167,8 @@ header.header-image .header-content .header-content-inner h5 {
     font-size: 14px;
     padding: 10px 12px;
   }
-  #main-slider .icon-prev, #main-slider .icon-next {
+  #main-slider .icon-prev,
+  #main-slider .icon-next {
     top: 45%;
   }
 }
@@ -11174,9 +11179,9 @@ header.header-image .header-content .header-content-inner h5 {
   #main-slider .carousel-caption {
     top: 10%;
   }
-  #main-slider .carousel-caption p, #main-slider .carousel-caption h1 {
+  #main-slider .carousel-caption p,
+  #main-slider .carousel-caption h1 {
     color: #ffffff;
-    text-transform: capitalize;
   }
   #main-slider .carousel-caption h1 {
     font-size: 26px;
@@ -11192,7 +11197,8 @@ header.header-image .header-content .header-content-inner h5 {
     font-size: 14px;
     padding: 10px 12px;
   }
-  #main-slider .icon-prev, #main-slider .icon-next {
+  #main-slider .icon-prev,
+  #main-slider .icon-next {
     top: 45%;
   }
 }
@@ -11203,9 +11209,9 @@ header.header-image .header-content .header-content-inner h5 {
   #main-slider .carousel-caption {
     top: 5%;
   }
-  #main-slider .carousel-caption p, #main-slider .carousel-caption h1 {
+  #main-slider .carousel-caption p,
+  #main-slider .carousel-caption h1 {
     color: #ffffff;
-    text-transform: capitalize;
   }
   #main-slider .carousel-caption h1 {
     font-size: 21px;
@@ -11221,7 +11227,8 @@ header.header-image .header-content .header-content-inner h5 {
     font-size: 14px;
     padding: 5px 6px;
   }
-  #main-slider .icon-prev, #main-slider .icon-next {
+  #main-slider .icon-prev,
+  #main-slider .icon-next {
     top: 40%;
   }
 }
@@ -11232,9 +11239,9 @@ header.header-image .header-content .header-content-inner h5 {
   #main-slider .carousel-caption {
     top: 0;
   }
-  #main-slider .carousel-caption p, #main-slider .carousel-caption h1 {
+  #main-slider .carousel-caption p,
+  #main-slider .carousel-caption h1 {
     color: #ffffff;
-    text-transform: capitalize;
   }
   #main-slider .carousel-caption h1 {
     font-size: 18px;
@@ -11251,7 +11258,8 @@ header.header-image .header-content .header-content-inner h5 {
     font-size: 8px;
     padding: 5px;
   }
-  #main-slider .icon-prev, #main-slider .icon-next {
+  #main-slider .icon-prev,
+  #main-slider .icon-next {
     top: 45%;
     width: 24px;
     height: 24px;
@@ -11266,9 +11274,9 @@ header.header-image .header-content .header-content-inner h5 {
   #main-slider .carousel-caption {
     top: 0;
   }
-  #main-slider .carousel-caption p, #main-slider .carousel-caption h1 {
+  #main-slider .carousel-caption p,
+  #main-slider .carousel-caption h1 {
     color: #ffffff;
-    text-transform: capitalize;
   }
   #main-slider .carousel-caption h1 {
     font-size: 12px;
@@ -11285,7 +11293,8 @@ header.header-image .header-content .header-content-inner h5 {
     font-size: 8px;
     padding: 5px;
   }
-  #main-slider .icon-prev, #main-slider .icon-next {
+  #main-slider .icon-prev,
+  #main-slider .icon-next {
     top: 40%;
     width: 24px;
     height: 24px;
@@ -11301,26 +11310,31 @@ header.header-image .header-content .header-content-inner h5 {
   height: 100%;
   position: absolute;
 }
-#slider-testimonials .carousel-inner .item, #slider-testimonials .carousel-inner .active {
+#slider-testimonials .carousel-inner .item,
+#slider-testimonials .carousel-inner .active {
   height: 100%;
 }
-#slider-testimonials .carousel-inner .item .carousel-caption, #slider-testimonials .carousel-inner .active .carousel-caption {
+#slider-testimonials .carousel-inner .item .carousel-caption,
+#slider-testimonials .carousel-inner .active .carousel-caption {
   color: #5b5b5b;
   text-shadow: none;
   position: absolute;
   z-index: 11;
 }
-#slider-testimonials .carousel-inner .item .carousel-caption p, #slider-testimonials .carousel-inner .active .carousel-caption p {
+#slider-testimonials .carousel-inner .item .carousel-caption p,
+#slider-testimonials .carousel-inner .active .carousel-caption p {
   margin: 0;
 }
-#slider-testimonials .carousel-inner .item .carousel-caption img, #slider-testimonials .carousel-inner .active .carousel-caption img {
+#slider-testimonials .carousel-inner .item .carousel-caption img,
+#slider-testimonials .carousel-inner .active .carousel-caption img {
   height: 140px;
   width: 140px;
 }
 #slider-testimonials .carousel-inner .container {
   padding: 0;
 }
-#slider-testimonials .icon-prev, #slider-testimonials .icon-next {
+#slider-testimonials .icon-prev,
+#slider-testimonials .icon-next {
   position: absolute;
 }
 
@@ -11337,12 +11351,14 @@ header.header-image .header-content .header-content-inner h5 {
   #slider-testimonials .carousel-caption h6 {
     margin-bottom: 0;
   }
-  .carousel-control .icon-prev, .carousel-control .icon-next {
+  .carousel-control .icon-prev,
+  .carousel-control .icon-next {
     top: 45%;
   }
 }
 @media (max-width: 539px) {
-  #slider-testimonials .icon-prev, #slider-testimonials .icon-next {
+  #slider-testimonials .icon-prev,
+  #slider-testimonials .icon-next {
     top: 50%;
     width: 24px;
     height: 24px;
