@@ -11788,6 +11788,10 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   border-radius: 100%;
   line-height: 72px;
   border: 2px solid #a5e200;
+  transition: 0.5s ease-in-out;
+}
+.t108-one-page #counters-services .icon-services:hover {
+  transform: rotate(-45deg);
 }
 .t108-one-page #counters-services .counters-box {
   margin: 0 auto 72px;
