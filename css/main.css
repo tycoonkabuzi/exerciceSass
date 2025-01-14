@@ -10588,7 +10588,7 @@ body a {
   text-decoration: none;
 }
 body a:hover {
-  color: #238a9e;
+  color: #88ba00;
 }
 body .overlay {
   position: absolute;
@@ -10724,7 +10724,7 @@ header.header-image .header-content .header-content-inner h5 {
 
 @media (min-width: 768px) {
   .header-contact {
-    background-color: #f7f7f7;
+    background-color: #f0f4dc;
     height: 32px;
     line-height: 32px;
     font-size: 16px;
@@ -10745,7 +10745,7 @@ header.header-image .header-content .header-content-inner h5 {
     color: #a5e200;
   }
   .header-contact ul .fa-twitter:hover, .header-contact ul .fa-facebook:hover, .header-contact ul .fa-linkedin:hover, .header-contact ul .fa-google-plus:hover {
-    color: #238a9e;
+    color: #88ba00;
   }
 }
 /***/
@@ -10753,7 +10753,7 @@ header.header-image .header-content .header-content-inner h5 {
 /***/
 /*==========  4.3 - Nav styles  ==========*/
 .navbar-default {
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
@@ -10810,7 +10810,7 @@ header.header-image .header-content .header-content-inner h5 {
   font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   font-family: "Lato Regular", Helvetica, sans-serif;
   margin-left: 10px;
   padding-bottom: 10px;
@@ -10834,11 +10834,11 @@ header.header-image .header-content .header-content-inner h5 {
   font-family: "Lato Regular", Helvetica, sans-serif;
 }
 .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   color: #979797;
 }
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   color: #979797;
 }
 .navbar-default .nav > li > a, .navbar-default .nav > li > a:focus {
@@ -10852,15 +10852,15 @@ header.header-image .header-content .header-content-inner h5 {
 }
 .navbar-default .nav > li.active > a, .navbar-default .nav > li.active > a:focus {
   color: #979797 !important;
-  background-color: #ffffff;
+  background-color: #f0f4dc;
 }
 .navbar-default .nav > li.active > a:hover, .navbar-default .nav > li.active > a:focus:hover {
-  background-color: #ffffff;
+  background-color: #f0f4dc;
 }
 
 @media (min-width: 768px) {
   .navbar-default {
-    background-color: #ffffff;
+    background-color: #f0f4dc;
     top: 32px;
   }
   .navbar-default .navbar-header .navbar-brand {
@@ -10921,7 +10921,7 @@ header.header-image .header-content .header-content-inner h5 {
     font-size: 13px;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: #ffffff;
+    background-color: #f0f4dc;
     font-family: "Lato Regular", Helvetica, sans-serif;
     padding-top: 16px;
     padding-bottom: 16px;
@@ -10942,11 +10942,11 @@ header.header-image .header-content .header-content-inner h5 {
     font-family: "Lato Regular", Helvetica, sans-serif;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    background-color: #ffffff;
+    background-color: #f0f4dc;
     color: #5b5b5b;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    background-color: #ffffff;
+    background-color: #f0f4dc;
     color: #5b5b5b;
   }
   .navbar-default.affix {
@@ -10988,11 +10988,11 @@ header.header-image .header-content .header-content-inner h5 {
     font-family: "Lato Regular", Helvetica, sans-serif;
   }
   .navbar-default.affix .open .dropdown-menu > li > a:hover, .navbar-default.affix .open .dropdown-menu > li > a:focus {
-    background-color: #ffffff;
+    background-color: #f0f4dc;
     color: #979797;
   }
   .navbar-default.affix .open .dropdown-menu > .active > a, .navbar-default.affix .open .dropdown-menu > .active > a:hover, .navbar-default.affix .open .dropdown-menu > .active > a:focus {
-    background-color: #ffffff;
+    background-color: #f0f4dc;
     color: #979797;
   }
 }
@@ -11295,7 +11295,7 @@ header.header-image .header-content .header-content-inner h5 {
 }
 #slider-testimonials {
   min-height: 500px;
-  background-color: #f7f7f7;
+  background-color: #f0f4dc;
 }
 #slider-testimonials .carousel-inner {
   height: 100%;
@@ -11383,7 +11383,7 @@ header.header-image .header-content .header-content-inner h5 {
   color: #a5e200;
 }
 .t108-footer .footer-above .footer-col .tweets a:hover {
-  color: #238a9e;
+  color: #88ba00;
 }
 .t108-footer .footer-above a {
   text-decoration: none;
@@ -11438,8 +11438,8 @@ header.header-image .header-content .header-content-inner h5 {
 
 .btn-primary:hover {
   color: #ffffff;
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 
 .btn-default {
@@ -11465,8 +11465,8 @@ header.header-image .header-content .header-content-inner h5 {
 
 .btn-success:hover {
   color: #ffffff;
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 
 /***/
@@ -11485,7 +11485,7 @@ hr.divider-light-dark {
 }
 
 hr.divider-light {
-  border-color: #ffffff;
+  border-color: #f0f4dc;
   max-width: 79.2px;
   border-width: 3px;
 }
@@ -11601,15 +11601,15 @@ form fieldset input[name=comment], form fieldset input[name=message] {
 #blog .pager a {
   color: #a5e200;
   border-color: #a5e200;
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   border-radius: 4px;
   padding: 6px 12px;
   width: 108px;
 }
 #blog .pager a:hover {
-  color: #238a9e;
-  border-color: #238a9e;
-  background-color: #ffffff;
+  color: #88ba00;
+  border-color: #88ba00;
+  background-color: #f0f4dc;
 }
 #blog .btn-primary {
   margin-bottom: 48px;
@@ -11644,35 +11644,45 @@ form fieldset input[name=comment], form fieldset input[name=message] {
     margin-top: 60px;
   }
 }
-.t108-one-page #counters-numbers, .t108-one-page #counters-progress {
+.t108-one-page #counters-numbers,
+.t108-one-page #counters-progress {
   height: auto;
   width: 100%;
   position: relative;
   padding: 96px 0;
 }
-.t108-one-page #counters-numbers .container, .t108-one-page #counters-progress .container {
+.t108-one-page #counters-numbers .container,
+.t108-one-page #counters-progress .container {
   position: relative;
   z-index: 11;
 }
-.t108-one-page #counters-numbers .container p, .t108-one-page #counters-numbers .container h4, .t108-one-page #counters-progress .container p, .t108-one-page #counters-progress .container h4 {
+.t108-one-page #counters-numbers .container p,
+.t108-one-page #counters-numbers .container h4,
+.t108-one-page #counters-progress .container p,
+.t108-one-page #counters-progress .container h4 {
   color: #ffffff;
 }
-.t108-one-page #counters-numbers .container .counters-box, .t108-one-page #counters-progress .container .counters-box {
+.t108-one-page #counters-numbers .container .counters-box,
+.t108-one-page #counters-progress .container .counters-box {
   margin: 72px auto 0;
 }
-.t108-one-page #counters-numbers .container .counters-box h1, .t108-one-page #counters-progress .container .counters-box h1 {
+.t108-one-page #counters-numbers .container .counters-box h1,
+.t108-one-page #counters-progress .container .counters-box h1 {
   font-size: 58px;
   color: #ffffff;
 }
-.t108-one-page #counters-numbers .container .counters-box h6, .t108-one-page #counters-progress .container .counters-box h6 {
+.t108-one-page #counters-numbers .container .counters-box h6,
+.t108-one-page #counters-progress .container .counters-box h6 {
   color: #ffffff;
 }
-.t108-one-page #counters-numbers .container .counters-box p, .t108-one-page #counters-progress .container .counters-box p {
+.t108-one-page #counters-numbers .container .counters-box p,
+.t108-one-page #counters-progress .container .counters-box p {
   margin-bottom: 0;
   color: #ffffff;
   margin: 24px auto;
 }
-.t108-one-page #counters-numbers .container .counters-box .text-primary, .t108-one-page #counters-progress .container .counters-box .text-primary {
+.t108-one-page #counters-numbers .container .counters-box .text-primary,
+.t108-one-page #counters-progress .container .counters-box .text-primary {
   color: #a5e200;
 }
 .t108-one-page #counters-numbers {
@@ -11749,7 +11759,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   opacity: 1;
 }
 .t108-one-page #counters-services {
-  background-color: #f7f7f7;
+  background-color: #f0f4dc;
   padding: 96px 0 24px;
 }
 .t108-one-page #counters-services .icon-services {
@@ -11819,13 +11829,15 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   border-radius: 100%;
   line-height: 40px;
   outline: 0;
-  color: #ffffff;
+  color: #f0f4dc;
   background-color: #dddddd;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   transition: all 0.3s;
 }
-.t108-one-page #team .container ul.social-buttons li a:hover, .t108-one-page #team .container ul.social-buttons li a:focus, .t108-one-page #team .container ul.social-buttons li a:active {
+.t108-one-page #team .container ul.social-buttons li a:hover,
+.t108-one-page #team .container ul.social-buttons li a:focus,
+.t108-one-page #team .container ul.social-buttons li a:active {
   background-color: #a5e200;
 }
 @media (max-width: 768px) {
@@ -11879,7 +11891,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   margin-top: 100px;
 }
 #error-404 .background-error {
-  background-color: #f7f7f7;
+  background-color: #f0f4dc;
 }
 #error-404 h1 {
   font-size: 160px;
@@ -11940,8 +11952,8 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   background-color: #a5e200;
 }
 #error-404 form .submit input[type=submit]:hover {
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 @media (min-width: 768px) {
   #error-404 form {
@@ -11974,8 +11986,8 @@ form fieldset input[name=comment], form fieldset input[name=message] {
     background-color: #a5e200;
   }
   #error-404 form .submit input[type=submit]:hover {
-    background-color: #238a9e;
-    border-color: #238a9e;
+    background-color: #88ba00;
+    border-color: #88ba00;
   }
 }
 #error-404 a {
@@ -12160,7 +12172,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
 #common-elements .toggles a .panel-heading {
   width: 100%;
   border: 1px solid #dddddd;
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   text-transform: uppercase;
   box-shadow: none;
   padding: 10px;
@@ -12179,7 +12191,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
 }
 #common-elements .tabs ul a {
   border-radius: 0px;
-  background-color: #ffffff;
+  background-color: #f0f4dc;
   text-transform: uppercase;
   font-size: 13px;
   border: 1px solid #dddddd;
@@ -12387,8 +12399,8 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   border-color: #a5e200;
 }
 #interactive-elements #buttons .buttons-round .buttons-hover .btn-primary:hover, #interactive-elements #buttons .buttons-round .buttons-hover .btn-success:hover {
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 @media (max-width: 768px) {
   #interactive-elements #buttons .buttons-round {
@@ -12438,8 +12450,8 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   border-radius: 0px;
 }
 #interactive-elements #buttons .rectangle-buttons .buttons-hover .btn-primary:hover, #interactive-elements #buttons .rectangle-buttons .buttons-hover .btn-success:hover {
-  background-color: #238a9e;
-  border-color: #238a9e;
+  background-color: #88ba00;
+  border-color: #88ba00;
 }
 @media (max-width: 768px) {
   #interactive-elements #buttons .rectangle-buttons {
@@ -12494,7 +12506,7 @@ form fieldset input[name=comment], form fieldset input[name=message] {
   width: 260px;
   padding: 0;
   border: 0px;
-  background-color: #f7f7f7;
+  background-color: #f0f4dc;
   color: #5b5b5b;
   margin-bottom: 0;
 }
