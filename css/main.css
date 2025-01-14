@@ -11370,6 +11370,7 @@ header.header-image .header-content .header-content-inner h5 {
 /*==========  4.6 - Footer styles  ==========*/
 .t108-footer {
   background-color: #222222;
+  padding-top: 80px;
 }
 .t108-footer .footer-above {
   padding-top: 48px;
@@ -11380,22 +11381,27 @@ header.header-image .header-content .header-content-inner h5 {
 .t108-footer .footer-above .footer-col {
   margin-bottom: 72px;
 }
-.t108-footer .footer-above .footer-col .contact, .t108-footer .footer-above .footer-col .tweets {
+.t108-footer .footer-above .footer-col .contact,
+.t108-footer .footer-above .footer-col .tweets {
   padding-left: 0;
 }
-.t108-footer .footer-above .footer-col .contact p, .t108-footer .footer-above .footer-col .tweets p {
+.t108-footer .footer-above .footer-col .contact p,
+.t108-footer .footer-above .footer-col .tweets p {
   margin: 0;
 }
 @media (max-width: 768px) {
-  .t108-footer .footer-above .footer-col .contact .pull-right, .t108-footer .footer-above .footer-col .tweets .pull-right {
+  .t108-footer .footer-above .footer-col .contact .pull-right,
+  .t108-footer .footer-above .footer-col .tweets .pull-right {
     float: left !important;
   }
 }
-.t108-footer .footer-above .footer-col .contact a:hover p, .t108-footer .footer-above .footer-col .tweets a:hover p {
+.t108-footer .footer-above .footer-col .contact a:hover p,
+.t108-footer .footer-above .footer-col .tweets a:hover p {
   margin: 0;
   color: #a5e200;
 }
-.t108-footer .footer-above .footer-col .contact .fa-twitter, .t108-footer .footer-above .footer-col .tweets .fa-twitter {
+.t108-footer .footer-above .footer-col .contact .fa-twitter,
+.t108-footer .footer-above .footer-col .tweets .fa-twitter {
   color: #a5e200;
 }
 .t108-footer .footer-above .footer-col .tweets a:hover {
@@ -11410,11 +11416,23 @@ header.header-image .header-content .header-content-inner h5 {
 .t108-footer .footer-above .btn-default:hover {
   border-color: #a5e200;
 }
-.t108-footer h1, .t108-footer h2, .t108-footer h3, .t108-footer h4, .t108-footer h5, .t108-footer h6 {
+.t108-footer h1,
+.t108-footer h2,
+.t108-footer h3,
+.t108-footer h4,
+.t108-footer h5,
+.t108-footer h6 {
   color: #979797;
 }
 .t108-footer p {
   color: #979797;
+}
+.t108-footer .fa-facebook,
+.t108-footer .fa-twitter,
+.t108-footer .fa-google-plus,
+.t108-footer .fa-linkedin,
+.t108-footer .fa-chevron-up {
+  font-size: 25px;
 }
 
 /*-----  End of 4.0 - Layouts  ------*/
