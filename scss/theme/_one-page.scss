@@ -19,12 +19,15 @@
 
       .icon-about {
         color: $color-text-primary;
-        width: $base-font-size * 4.5;
-        height: $base-font-size * 4.5;
+        width: 96px;
+        height: 96px;
         border-radius: 100%;
         line-height: $base-font-size * 4.5;
         background-color: $color-primary;
-        margin: $margin-none auto $baseline;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
       }
     }
   }
@@ -186,9 +189,10 @@
       }
 
       .divider-light-dark {
-        width: $baseline * 2;
         margin-left: $padding-none;
         margin-bottom: 20px;
+        width: 25px;
+        opacity: 50%;
       }
     }
   }
